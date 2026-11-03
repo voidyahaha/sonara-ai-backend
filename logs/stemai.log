@@ -1,0 +1,21 @@
+2026-10-25 16:18:03.356 | INFO     | app.main:lifespan:38 - ============================================================
+2026-10-25 16:18:03.357 | INFO     | app.main:lifespan:39 - StemAI Backend starting...
+2026-10-25 16:18:03.358 | INFO     | app.main:lifespan:40 -   Demucs model : htdemucs_ft
+2026-10-25 16:18:03.359 | INFO     | app.main:lifespan:41 -   Max jobs     : 1
+2026-10-25 16:18:03.359 | INFO     | app.main:lifespan:42 -   Temp dir     : /data/data/com.termux/files/usr/tmp/stemai_processing
+2026-10-25 16:18:03.433 | INFO     | app.services.firebase_service:init_firebase:32 - Firebase: using credentials from vocal-separater-5eb7c-firebase-adminsdk-fbsvc-3ec22eebc8.json
+2026-10-25 16:18:03.434 | INFO     | app.services.firebase_service:init_firebase:51 - Firebase Admin SDK initialized successfully
+2026-10-25 16:18:03.435 | INFO     | app.main:lifespan:47 -   Firebase     : ✓ connected
+2026-10-25 16:18:03.436 | INFO     | app.main:lifespan:54 -   Device       : cpu (CPU)
+2026-10-25 16:18:03.436 | INFO     | app.main:lifespan:55 - ============================================================
+2026-10-25 16:47:42.544 | INFO     | app.main:lifespan:59 - StemAI Backend shutting down...
+2026-10-25 16:48:24.815 | INFO     | app.main:lifespan:38 - ============================================================
+2026-10-25 16:48:24.816 | INFO     | app.main:lifespan:39 - StemAI Backend starting...
+2026-10-25 16:48:24.817 | INFO     | app.main:lifespan:40 -   Demucs model : htdemucs_ft
+2026-10-25 16:48:24.818 | INFO     | app.main:lifespan:41 -   Max jobs     : 1
+2026-10-25 16:48:24.819 | INFO     | app.main:lifespan:42 -   Temp dir     : /data/data/com.termux/files/usr/tmp/stemai_processing
+2026-10-25 16:48:24.906 | INFO     | app.services.firebase_service:init_firebase:32 - Firebase: using credentials from vocal-separater-5eb7c-firebase-adminsdk-fbsvc-3ec22eebc8.json
+2026-10-25 16:48:24.907 | INFO     | app.services.firebase_service:init_firebase:51 - Firebase Admin SDK initialized successfully
+2026-10-25 16:48:24.908 | INFO     | app.main:lifespan:47 -   Firebase     : ✓ connected
+2026-10-25 16:48:24.908 | INFO     | app.main:lifespan:54 -   Device       : cpu (CPU)
+2026-10-25 16:48:24.908 | INFO     | app.main:lifespan:55 - ============================================================
